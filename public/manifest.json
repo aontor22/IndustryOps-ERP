@@ -1,0 +1,9 @@
+{
+  "name": "IndustryOps ERP Lite",
+  "short_name": "IndustryOps",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#0f172a",
+  "description": "Offline-ready ERP lite for inventory, sales, purchases, expenses, customers, and suppliers."
+}
